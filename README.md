@@ -13,11 +13,6 @@ Celebrate love and express your affection with our delightful Valentine's Day ap
 - __Visually captivating:__ Set the mood with beautiful wallpapers and share love-filled greetings.
 - __Fun and engaging:__ Utilize the love meter and calculator to add a playful touch to your Valentine's Day celebration.
 
-## Authors
-
-- [@MehulVariya](https://github.com/MehulVariya)
-
-
 ## Screenshots
 
 ![App Screenshot](https://radhavisioninfotech.com/Upload/happy-valentine-day-ss.png)
@@ -28,4 +23,9 @@ Celebrate love and express your affection with our delightful Valentine's Day ap
 **Client:** Java, Kotlin, XML
 
 **Server:** Node, Express
+
+
+## Authors
+
+- [@MehulVariya](https://github.com/MehulVariya)
 
