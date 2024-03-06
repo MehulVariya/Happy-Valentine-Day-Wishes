@@ -14,9 +14,11 @@ Celebrate love and express your affection with our delightful Valentine's Day ap
 <img src="https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/valentine-day-ss.png" />
 
 ## 📱 Technologies / Tools used for building this app includes:
-| Android Studio | Firebase | Kotlin | External APIs | Android OS |
-| --- | --- | --- | --- | --- |
+| Android Studio | Firebase | Kotlin | Java | External APIs | Android OS
+| --- | --- | --- | --- | --- | --- |
 
+MVVM Architecture | Room database library | Retrofit | Glide | Shimmer
+| --- | --- | --- | --- | --- |
 ## Authors
 
 - [@MehulVariya](https://github.com/MehulVariya)
