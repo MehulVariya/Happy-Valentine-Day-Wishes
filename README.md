@@ -23,7 +23,7 @@ MVVM Architecture | Room database library | Retrofit | Glide | Shimmer
 
 - [@MehulVariya](https://github.com/MehulVariya)
 
-## Check From Play Store
+## <img src="https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/download.png" alt="Download" width="25" height="25" /> from:
 [![Get it on Google Play](https://media.lisk.com/init/google_store_912cd733ee.png?auto=compress,format&fit=max&w=96&q=80)](https://play.google.com/store/apps/details?id=com.ninesquaretech.valentineday)
 
 ## LICENSE
