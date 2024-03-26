@@ -8,7 +8,7 @@ Celebrate love and express your affection with our delightful Valentine's Day ap
 - __Spark the romance:__ Find creative ideas for Valentine's Day gifts and discover tips to impress your partner.
 - __Visually captivating:__ Set the mood with beautiful wallpapers and share love-filled greetings.
 - __Fun and engaging:__ Utilize the love meter and calculator to add a playful touch to your Valentine's Day celebration.
--  __Sticker add on whatsapp:__ Save your favourite sticker on whatsapp sticker
+- __Sticker add on whatsapp:__ Save your favourite sticker on whatsapp sticker
 
 ## 🤩 Designs:
 <img src="https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/valentine-day-ss.png" />
