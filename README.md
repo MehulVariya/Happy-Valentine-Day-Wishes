@@ -26,9 +26,14 @@ MVVM Architecture | Room database library | Retrofit | Glide | Shimmer
 ## <img src="https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/download.png" alt="Download" width="25" height="25" /> from:
 [![Get it on Google Play](https://media.lisk.com/init/google_store_912cd733ee.png?auto=compress,format&fit=max&w=96&q=80)](https://play.google.com/store/apps/details?id=com.ninesquaretech.valentineday)
 
+
 ## LICENSE
   
   - Copyright (c) 2024 The Happy Valentine Day Wishes Author - [MIT License]
  
  [Fontawesome]: https://play.google.com/store/apps/details?id=com.ninesquaretech.valentineday
  [MIT License]: https://github.com/MehulVariya/Happy-Valentine-Day-Wishes/blob/main/LICENSE.txt
+
+
+## Visitors Count
+ <img align="left" src = "https://profile-counter.glitch.me/Happy-Valentine-Day-Wishes/count.svg" alt ="Loading">
